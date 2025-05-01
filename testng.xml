@@ -5,10 +5,7 @@
     <classes>
       <class name="Luma.Testcase2_Addtocart"/>
       <class name="Luma.Testcase1_SignIn"/>
-      <class name="Luma.Luma_Addtocart"/>
-      <class name="Luma.Luma_listener"/>
-      <class name="Luma.Luma_LoginData"/>
-      <class name="Luma.Luma_signin"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
